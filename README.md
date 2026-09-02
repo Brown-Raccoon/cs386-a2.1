@@ -10,4 +10,4 @@ Use the package manager [pip] (https://pypi.org/project/pip/)
 
 ## **Developers**
 -**Adrian**
--*Marco Gerosa*
+**Marco Gerosa*
